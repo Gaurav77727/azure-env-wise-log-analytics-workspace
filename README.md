@@ -1,0 +1,1 @@
+# azure-env-wise-log-analytics-workspace
